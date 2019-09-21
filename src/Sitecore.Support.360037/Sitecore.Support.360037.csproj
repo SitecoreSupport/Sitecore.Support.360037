@@ -64,7 +64,6 @@
     <Compile Include="Sitecore\Buckets\Forms\SelectRenderingDatasourceForm.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.360037.config" />
     <Content Include="Sitecore\shell\override\SelectRenderingDatasource.xml">
       <SubType>Designer</SubType>
     </Content>
